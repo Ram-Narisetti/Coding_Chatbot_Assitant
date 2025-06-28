@@ -2,10 +2,6 @@
 
 Welcome to **CodeCraft AI** – a smart, interactive, and powerful AI-based coding assistant built with **Streamlit**! Whether you're a beginner trying to understand basic concepts or a pro looking for instant code generation, CodeCraft AI is here to help.
 
-![CodeCraft AI Screenshot](https://ibb.co/n8nN5Q8w)
-
----
-
 ## 🧠 What is CodeCraft AI?
 
 **CodeCraft AI** is an AI-powered chatbot tailored specifically for **programmers and developers**. It helps you:
