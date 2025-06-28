@@ -2,7 +2,7 @@
 
 Welcome to **CodeCraft AI** – a smart, interactive, and powerful AI-based coding assistant built with **Streamlit**! Whether you're a beginner trying to understand basic concepts or a pro looking for instant code generation, CodeCraft AI is here to help.
 
-![CodeCraft AI Screenshot](assets/screenshot.png)
+![CodeCraft AI Screenshot](https://ibb.co/n8nN5Q8w)
 
 ---
 
@@ -41,15 +41,7 @@ Welcome to **CodeCraft AI** – a smart, interactive, and powerful AI-based codi
 - **AI Integration**: Gemini API / OpenAI (customizable)
 - **Design**: Dark-themed UI with interactive elements
 
----
 
-## 📸 Screenshots
-
-| Home Page | Suggested Tasks |
-|-----------|-----------------|
-| ![Home](./screenshots/screenshot1.png) | ![Suggestions](./screenshots/screenshot2.png) |
-
----
 
 ## ⚙️ How to Run Locally
 
